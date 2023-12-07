@@ -1,0 +1,25 @@
+# Ignore compiled binaries
+*.class
+*.jar
+*.war
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore sensitive information
+secret.txt
+credentials.json
+
+# Ignore build output
+/build/
+/dist/
+
+#ignore large files
+
+Head First - Servlets and JSP - Second Edition.pdf
+jsp syntax overview.bmp
+spring-tool-suite-3.9.18.RELEASE-e4.21.0-win32-x86_64.zip

@@ -1,0 +1,121 @@
+import java.util.Scanner;
+
+
+	
+	
+public class LikedList {
+	
+	static Node  head;
+	static Node tail;
+	static int count=0;
+	
+	 class Node{
+		int data;
+		Node next;
+	
+	public Node(int data){
+		this.data = data;
+		next = null;
+	}
+}
+	
+	public static void insert(int data) {
+		count++;
+		if(head==null) {
+			Node newNode = new Node(data);
+			head= newNode;
+			tail = newNode;
+		}
+		else
+			insert(head, data);
+	}
+	
+	public static Node insert(Node node, int data) {
+		if(node == null) {
+			Node newNode = new Node(data);
+			node = newNode;
+			tail.next = node;
+			tail=node;
+			return node;
+		}
+		
+		return insert(node.next, data);
+			
+	}
+	
+	public static void display(Node node) {
+		if(node==null) {
+			return;
+		}
+		System.out.print(node.data+" ");
+		display(node.next);
+	}
+	
+	// Method to remove last element from LL
+	public static void remove(Node node){
+		
+		if(count==0) System.out.println("Linked list is empty");
+		else if(head == tail) {
+			head = null;
+		}
+		else if (node.next==tail){
+			tail = node;
+			node.next = null;
+			count--;
+			
+		}
+		else {
+			remove(node.next);
+			
+		}
+		
+	}
+	
+	public static int size() {
+		return count;
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner sc = new Scanner(System.in);
+		boolean exit = false;
+		insert(1);
+		insert(2);
+		insert(3);
+		insert(4);
+		insert(5);
+		insert(6);
+		
+		while(!exit) {
+			System.out.println("1-> Insert\n"
+					+ "2-> Display\n"
+					+ "3-> Remove\n"
+					+ "4-> Size");
+			
+			switch(sc.nextInt()) {
+			//Insert element at last of lnked list
+			case 1 : 
+				System.out.println("Enter a data");
+				insert(sc.nextInt());
+				break;
+				
+			// display linked list	
+			case 2 : 
+				display(head);
+				System.out.println("\n");
+				break;
+				
+			case 3 : 
+				remove(head);
+				break;	
+				
+			case 4 :
+				System.out.println( "Number of elemenst in linked list : " +size());
+				break;
+			}
+			
+		}
+
+	}
+
+}

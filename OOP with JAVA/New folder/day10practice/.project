@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>day10practice</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/com</name>
+			<type>2</type>
+			<locationURI>PARENT-3-PROJECT_LOC/OOP%20with%20JAVA/Day%20wise%20study%20material/day10-data/code/day10.2/src/com</locationURI>
+		</link>
+		<link>
+			<name>src/custom_exceptions</name>
+			<type>2</type>
+			<locationURI>PARENT-3-PROJECT_LOC/OOP%20with%20JAVA/Day%20wise%20study%20material/day10-data/code/day10.2/src/custom_exceptions</locationURI>
+		</link>
+		<link>
+			<name>src/tester</name>
+			<type>2</type>
+			<locationURI>PARENT-3-PROJECT_LOC/OOP%20with%20JAVA/Day%20wise%20study%20material/day10-data/code/day10.2/src/tester</locationURI>
+		</link>
+		<link>
+			<name>src/utils</name>
+			<type>2</type>
+			<locationURI>PARENT-3-PROJECT_LOC/OOP%20with%20JAVA/Day%20wise%20study%20material/day10-data/code/day10.2/src/utils</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

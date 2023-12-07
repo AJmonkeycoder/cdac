@@ -1,0 +1,25 @@
+
+public class CircularLinkedList {
+	Node head;
+	private class Node{
+		int data;
+		Node next;
+	
+		public Node(int data){
+			this.data = data;
+			next = null;
+		}
+	}
+	
+	public void insert(int data) {
+		
+	}
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

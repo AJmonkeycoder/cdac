@@ -1,0 +1,7 @@
+1.List only the directories in your current directory
+ls -d */
+
+2.Display the name and count of the directories in the current directory.
+ls | wc -l
+
+

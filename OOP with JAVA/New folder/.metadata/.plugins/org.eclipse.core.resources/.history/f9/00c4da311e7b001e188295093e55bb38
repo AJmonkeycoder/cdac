@@ -1,0 +1,105 @@
+import java.util.Scanner;
+
+class Node{
+		int data;
+		Node previous;
+		Node next;
+	
+	public Node(int data){
+		this.data = data;
+		previous=null;
+		next = null;
+	}
+}
+
+
+	
+public  class DoubleLinkedList {
+	Node head;
+	
+	int count;
+	
+	public void insert(int data) {
+		if(head == null) {
+			Node newNode = new Node(data);
+			
+			head = newNode;
+			
+		}else insert(head, data);
+	}
+	
+	public	void insert(Node node, int data) {
+		if(node.next == null) {
+			Node newNode = new Node(data);
+			node.next=newNode;
+			newNode.previous = node;	
+		}
+		else insert(node.next, data);	
+	}
+	
+	public void display() {
+		Node node = head;
+		while(node!=null) {
+			System.out.print(node.data+" ");
+			node = node.next;
+		}
+	}
+	
+	public void remove(Node node) {
+		if(node==null) {
+			System.out.println("list is empty");
+			return;
+		}else if(head.next==null) {
+			head = null;
+		}else if(node.next==null) {
+			Node preNode = node.previous;
+			preNode.next = null;
+			return;
+		}
+		else
+			remove(node.next);
+	}
+	
+	public static void main(String [] args) {
+		DoubleLinkedList d = new DoubleLinkedList();
+		Scanner sc = new Scanner(System.in);
+		boolean exit = false;
+		d.insert(1);
+//		d.insert(2);
+//		d.insert(3);
+//		d.insert(4);
+//		d.insert(5);
+//		d.insert(6);
+		
+		while(!exit) {
+			System.out.println("1-> Insert\n"
+					+ "2-> Display\n"
+					+ "3-> Remove\n"
+					+ "4-> Size");
+			
+			switch(sc.nextInt()) {
+			//Insert element at last of lnked list
+			case 1 : 
+				System.out.println("Enter a data");
+				d.insert(sc.nextInt());
+				break;
+				
+			// display linked list	
+			case 2 : 
+				d.display();
+				System.out.println("\n");
+				break;
+				
+			case 3 : 
+				d.remove(d.head);
+				break;	
+				
+			case 4 :
+				//System.out.println( "Number of elemenst in linked list : " +size());
+				break;
+			}
+			
+		}
+
+	}
+}

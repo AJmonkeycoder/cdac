@@ -1,0 +1,6 @@
+1 - no class or object will be loaded as it only declares a reference refer to sc of type scanner.
+2 - no class or object will be loaded.
+3 - no class or object will be loaded.
+4 - no class or object will be loaded.
+5 - no class or object will be loaded.
+6 - no class or object will be loaded.
