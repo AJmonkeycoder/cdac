@@ -1,0 +1,23 @@
+F:\8. MS.NET\Lab\assign3\bin\Debug\net7.0\assign3.exe
+F:\8. MS.NET\Lab\assign3\bin\Debug\net7.0\assign3.deps.json
+F:\8. MS.NET\Lab\assign3\bin\Debug\net7.0\assign3.runtimeconfig.json
+F:\8. MS.NET\Lab\assign3\bin\Debug\net7.0\assign3.dll
+F:\8. MS.NET\Lab\assign3\bin\Debug\net7.0\assign3.pdb
+F:\8. MS.NET\Lab\assign3\obj\Debug\net7.0\assign3.csproj.AssemblyReference.cache
+F:\8. MS.NET\Lab\assign3\obj\Debug\net7.0\assign3.GeneratedMSBuildEditorConfig.editorconfig
+F:\8. MS.NET\Lab\assign3\obj\Debug\net7.0\assign3.AssemblyInfoInputs.cache
+F:\8. MS.NET\Lab\assign3\obj\Debug\net7.0\assign3.AssemblyInfo.cs
+F:\8. MS.NET\Lab\assign3\obj\Debug\net7.0\assign3.csproj.CoreCompileInputs.cache
+F:\8. MS.NET\Lab\assign3\obj\Debug\net7.0\assign3.dll
+F:\8. MS.NET\Lab\assign3\obj\Debug\net7.0\refint\assign3.dll
+F:\8. MS.NET\Lab\assign3\obj\Debug\net7.0\assign3.pdb
+F:\8. MS.NET\Lab\assign3\obj\Debug\net7.0\assign3.genruntimeconfig.cache
+F:\8. MS.NET\Lab\assign3\obj\Debug\net7.0\ref\assign3.dll
+F:\38\8.MS.NET\Lab\assign3\assign3\obj\Debug\net7.0\assign3.csproj.AssemblyReference.cache
+F:\38\8.MS.NET\Lab\assign3\assign3\obj\Debug\net7.0\assign3.GeneratedMSBuildEditorConfig.editorconfig
+F:\38\8.MS.NET\Lab\assign3\assign3\obj\Debug\net7.0\assign3.AssemblyInfoInputs.cache
+F:\38\8.MS.NET\Lab\assign3\assign3\obj\Debug\net7.0\assign3.AssemblyInfo.cs
+F:\38\8.MS.NET\Lab\assign3\assign3\obj\Debug\net7.0\assign3.csproj.CoreCompileInputs.cache
+F:\38\8.MS.NET\Lab\assign3\assign3\obj\Debug\net7.0\assign3.dll
+F:\38\8.MS.NET\Lab\assign3\assign3\obj\Debug\net7.0\refint\assign3.dll
+F:\38\8.MS.NET\Lab\assign3\assign3\obj\Debug\net7.0\assign3.pdb

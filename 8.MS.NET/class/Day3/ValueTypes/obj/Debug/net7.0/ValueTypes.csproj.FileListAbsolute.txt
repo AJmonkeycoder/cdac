@@ -1,0 +1,15 @@
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\bin\Debug\net7.0\ValueTypes.exe
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\bin\Debug\net7.0\ValueTypes.deps.json
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\bin\Debug\net7.0\ValueTypes.runtimeconfig.json
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\bin\Debug\net7.0\ValueTypes.dll
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\bin\Debug\net7.0\ValueTypes.pdb
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\obj\Debug\net7.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\obj\Debug\net7.0\ValueTypes.AssemblyInfoInputs.cache
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\obj\Debug\net7.0\ValueTypes.AssemblyInfo.cs
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\obj\Debug\net7.0\ValueTypes.csproj.CoreCompileInputs.cache
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\obj\Debug\net7.0\ValueTypes.sourcelink.json
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\obj\Debug\net7.0\ValueTypes.dll
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\obj\Debug\net7.0\refint\ValueTypes.dll
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\obj\Debug\net7.0\ValueTypes.pdb
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\obj\Debug\net7.0\ValueTypes.genruntimeconfig.cache
+D:\2CDAC\8. MS.NET\class\Day3\ValueTypes\obj\Debug\net7.0\ref\ValueTypes.dll

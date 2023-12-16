@@ -1,0 +1,15 @@
+F:\8. MS.NET\Lab\assign1\assign1\bin\Debug\net7.0\assign1.exe
+F:\8. MS.NET\Lab\assign1\assign1\bin\Debug\net7.0\assign1.deps.json
+F:\8. MS.NET\Lab\assign1\assign1\bin\Debug\net7.0\assign1.runtimeconfig.json
+F:\8. MS.NET\Lab\assign1\assign1\bin\Debug\net7.0\assign1.dll
+F:\8. MS.NET\Lab\assign1\assign1\bin\Debug\net7.0\assign1.pdb
+F:\8. MS.NET\Lab\assign1\assign1\obj\Debug\net7.0\assign1.csproj.AssemblyReference.cache
+F:\8. MS.NET\Lab\assign1\assign1\obj\Debug\net7.0\assign1.GeneratedMSBuildEditorConfig.editorconfig
+F:\8. MS.NET\Lab\assign1\assign1\obj\Debug\net7.0\assign1.AssemblyInfoInputs.cache
+F:\8. MS.NET\Lab\assign1\assign1\obj\Debug\net7.0\assign1.AssemblyInfo.cs
+F:\8. MS.NET\Lab\assign1\assign1\obj\Debug\net7.0\assign1.csproj.CoreCompileInputs.cache
+F:\8. MS.NET\Lab\assign1\assign1\obj\Debug\net7.0\assign1.dll
+F:\8. MS.NET\Lab\assign1\assign1\obj\Debug\net7.0\refint\assign1.dll
+F:\8. MS.NET\Lab\assign1\assign1\obj\Debug\net7.0\assign1.pdb
+F:\8. MS.NET\Lab\assign1\assign1\obj\Debug\net7.0\assign1.genruntimeconfig.cache
+F:\8. MS.NET\Lab\assign1\assign1\obj\Debug\net7.0\ref\assign1.dll

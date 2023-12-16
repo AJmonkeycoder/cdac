@@ -1,0 +1,15 @@
+E:\dot_NET\Assignment4Exception\bin\Debug\net7.0\Assignment4Exception.exe
+E:\dot_NET\Assignment4Exception\bin\Debug\net7.0\Assignment4Exception.deps.json
+E:\dot_NET\Assignment4Exception\bin\Debug\net7.0\Assignment4Exception.runtimeconfig.json
+E:\dot_NET\Assignment4Exception\bin\Debug\net7.0\Assignment4Exception.dll
+E:\dot_NET\Assignment4Exception\bin\Debug\net7.0\Assignment4Exception.pdb
+E:\dot_NET\Assignment4Exception\obj\Debug\net7.0\Assignment4Exception.csproj.AssemblyReference.cache
+E:\dot_NET\Assignment4Exception\obj\Debug\net7.0\Assignment4Exception.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot_NET\Assignment4Exception\obj\Debug\net7.0\Assignment4Exception.AssemblyInfoInputs.cache
+E:\dot_NET\Assignment4Exception\obj\Debug\net7.0\Assignment4Exception.AssemblyInfo.cs
+E:\dot_NET\Assignment4Exception\obj\Debug\net7.0\Assignment4Exception.csproj.CoreCompileInputs.cache
+E:\dot_NET\Assignment4Exception\obj\Debug\net7.0\Assignment4Exception.dll
+E:\dot_NET\Assignment4Exception\obj\Debug\net7.0\refint\Assignment4Exception.dll
+E:\dot_NET\Assignment4Exception\obj\Debug\net7.0\Assignment4Exception.pdb
+E:\dot_NET\Assignment4Exception\obj\Debug\net7.0\Assignment4Exception.genruntimeconfig.cache
+E:\dot_NET\Assignment4Exception\obj\Debug\net7.0\ref\Assignment4Exception.dll
