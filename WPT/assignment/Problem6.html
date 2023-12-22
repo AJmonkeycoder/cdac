@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title> Internet Usage Survey </title>
+</head>
+
+<style>
+    #select-box{
+        height: 40px;
+        overflow-y:auto;
+        width:100px;
+    }
+    option{
+        overflow-y: scroll;
+    }
+    .left{
+        width: 50%;
+        float: left;
+        margin: 20px 5px 10px;
+        padding-left: 5px;
+    }
+    .right{
+        width:50%;
+        float: right;
+        background-color: aquamarine;
+        margin: 20px 5px 10px;
+       
+        
+    }
+    .border-text{
+        margin-top: -15px;
+    }
+</style>
+<body>
+  
+        <h2>Internet usage Survey</h2>
+        <P> This survey us being conducted to help identify usage patterns of our customers Please take 
+            a few moments to complete and submit this short form. Thank you for your cooperation.
+        </P>
+        <div class="content-cont">
+            <div class="left">
+                <p>What type of Internet Connection do you have (Select One)</p>
+
+            </div>
+            <div class="right">
+                <select id="select-box">
+                    <option>dal-up</option>
+                    <option>DBL</option>
+                    <option>High speed cable</option>
+                    <option>Other</option>
+                </select>
+                <p></p>
+            </div>
+        </div>
+        
+        <div class="content-cont">
+            <div class="left">
+                <p>What type of Computer do you mostly use at home (Select One)</p>
+
+            </div>
+            <div class="right">
+                <label >Gender</label>
+                <input type="radio"  checked value="Desktop"/><label >Desktop</label>
+                <input type="radio" value="Laptop"/><label >Laptop</label>
+                <p></p>
+            </div>
+        </div>
+       
+
+        <div class="content-cont">
+            <div class="left">
+                <p>How would you describe your main reason for using Internet</p>
+
+            </div>
+            <div class="right">
+                <input type="radio"  checked value="Desktop"/><label >To do work-related activities</label><br>
+
+                <input type="radio" value="Laptop"/><label >To do school-related activities</label><br>
+                <input type="radio" value="Laptop"/><label >For entertainment purpose</label><br>
+                <input type="radio" value="Laptop"/><label >Other activities</label><br>
+                
+            </div>
+        </div>
+
+        <div class="content-cont">
+            
+            <div class="left" style="border: 5px black solid;">
+                <div class="border-text">
+                <span>Types of site visited</span>
+                </div>
+                <p>What types of web sites do you access most often?<br> Check all that apply</p>
+                <div class="left-inner">
+                    <input type="radio"  checked value="Desktop"/><label >To do work-related activities</label><br>
+    
+                    <input type="radio" value="Laptop"/><label >Self Improvement</label><br>
+                    <input type="radio" value="Laptop"/><label >Entertainment</label><br>
+                    <input type="radio" value="Laptop"/><label >News and Sports</label><br>
+                    <input type="radio" value="Laptop"/><label >Reference</label><br>
+                    <input type="radio" value="Laptop"/><label >Email</label><br>
+                    
+                </div>
+            </div>
+            <div class="right" >
+                <span>Time spent during Internet</span>
+           
+                <p>During an average week, how long do you spend online</p>
+                <div class="right-inner">
+                    <input type="radio"  checked value="Desktop"/><label >0-3 Hours</label><br>
+    
+                    <input type="radio" value="Laptop"/><label >4-6 Hourse</label><br>
+                    <input type="radio" value="Laptop"/><label >7-10 Hours</label><br>
+                    <input type="radio" value="Laptop"/><label >11-14 Hours</label><br>
+                    <input type="radio" value="Laptop"/><label >15+ Hours</label><br>
+                    
+                    
+                </div>
+            </div>
+           
+        </div>
+    
+</body>
+</html>
