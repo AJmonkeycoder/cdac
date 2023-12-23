@@ -4,7 +4,7 @@ namespace CollectionExamples
 {
     internal class Program
     {
-        static void Main1()
+        static void Main()
         {
             ArrayList objArrayList = new ArrayList();
             objArrayList.Add("Vikram");
@@ -12,6 +12,11 @@ namespace CollectionExamples
             objArrayList.Add(1.1);
             objArrayList.Add(true);
 
+            Console.WriteLine(objArrayList.Count);
+            foreach (object item in objArrayList)
+            {
+                Console.WriteLine(item);
+            }
             objArrayList.Remove("Vikram");
             objArrayList.RemoveAt(2);  //index
             ArrayList o2 = new ArrayList();
@@ -33,7 +38,7 @@ namespace CollectionExamples
             object[] arr = new object[objArrayList.Count];
             objArrayList.CopyTo(arr);
 
-            ArrayList o3 = objArrayList.GetRange(0, 3); //returns a subset of the arraylist
+            //ArrayList o3 = objArrayList.GetRange(0, 3); //returns a subset of the arraylist
 
             //assumin objArrayList - 10,20 30 ,40
             //o2 - 5 15 25
@@ -153,7 +158,7 @@ namespace CollectionExamples
                 Console.WriteLine(item.Name);
             }
         }
-        static void Main()
+        static void Main6()
         {
             SortedList<int, string> sortedlist1 = new SortedList<int, string>();
             sortedlist1.Add(1, "A");
